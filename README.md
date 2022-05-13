@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 My name is Cristian</h1>
 <h3 align="center">I'm from colombia and a passionate for backend develope</h3>
 
-- 🌱 I’m currently learning **Spring Boot Framework, inglish and functional programing**
+- 🌱 I’m currently learning **Spring Boot Framework, English and functional programing**
 
 - 📫 How to reach me **cris300oso@gmail.com**
 
