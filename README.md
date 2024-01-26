@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Spring Boot, English, Docker, kubernetes and microservices**
 
-- 📫 How to reach me **cris300oso@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cristian-osorio-ramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
