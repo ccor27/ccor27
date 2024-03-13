@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 My name is Cristian</h1>
 <h3 align="center">I'm from colombia and a passionate for backend develope</h3>
 
-- 🌱 I’m currently learning **Spring Boot, English, Docker, kubernetes and microservices**
+- 🌱 I’m currently learning **Microservices, English, Docker, kubernetes and angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
