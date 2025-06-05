@@ -54,7 +54,7 @@
 
 ### 🧠 Katas y lógica
 
-> He comenzado a subir desafíos de algoritmos y lógica en `code-challenges/`, con enfoques en estructuras y optimización.  
+> He comenzado a subir desafíos de algoritmos y lógica en `https://www.hackerrank.com/profile/ccor27`,`https://leetcode.com/u/ccor27/`, con enfoques en estructuras y optimización.  
 > 💡 Enfoque: claridad, performance y legibilidad.
 
 ---
@@ -78,7 +78,21 @@
 |-------------------------|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccor27&layout=compact&langs_count=6&theme=default) |
 
+| 🧮 GitHub Metrics |
+|-------------------------|
+||
 ---
+###  (dashboard completo)
+
+<p align="center">
+  <img src="https://github.com/ccor27/ccor27/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+### 🧮 GitHub Metrics (dashboard completo)
+
+<p align="center">
+  <img src="https://github.com/ccor27/ccor27/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 ### 🌐 Contacto
 
