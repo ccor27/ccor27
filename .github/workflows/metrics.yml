@@ -1,0 +1,24 @@
+name: 📊 Metrics
+on:
+  schedule: [{cron: "0 8 * * 1"}]  # Se actualiza todos los lunes a las 8 AM
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Madrid
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 6
+          plugin_isocalendar: yes
+          plugin_habits: yes
+          plugin_habits_from: 100
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_stargazers: yes
