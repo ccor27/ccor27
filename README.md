@@ -72,18 +72,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-| 🧠 Estadísticas Generales | 🔥 Racha de contribuciones |
-|---------------------------|-----------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ccor27&show_icons=true&theme=default&hide_rank=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ccor27&theme=default) |
-
-| 💻 Lenguajes más usados |
-|-------------------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccor27&layout=compact&langs_count=6&theme=default) |
-
----
-
 ### 🧮 GitHub Metrics Dashboard
 
 <p align="center">
@@ -176,18 +164,6 @@
 - Advanced Docker + Kubernetes with Helm
 - Deep dive into pointers, malloc, and data structures in C
 - Improving technical English (currently B2 ➜ aiming for C1)
-
----
-
-### 📊 GitHub Stats
-
-| 🧠 General Stats | 🔥 Contribution Streak |
-|------------------|------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ccor27&show_icons=true&theme=default&hide_rank=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ccor27&theme=default) |
-
-| 💻 Most Used Languages |
-|------------------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccor27&layout=compact&langs_count=6&theme=default) |
 
 ---
 
