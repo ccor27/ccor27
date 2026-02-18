@@ -74,7 +74,7 @@
 ### 🧮 GitHub Metrics Dashboard
 
 <p align="center">
-  <img src="https://github.com/ccor27/ccor27/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/ccor27/ccor27/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
@@ -168,7 +168,7 @@
 ### 🧮 GitHub Metrics Dashboard
 
 <p align="center">
-  <img src="https://github.com/ccor27/ccor27/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/ccor27/ccor27/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
