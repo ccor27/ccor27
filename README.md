@@ -36,7 +36,6 @@
 | Área | Fortalezas | Aplicado en proyectos |
 |------|------------|------------------------|
 | **Diseño de APIs REST** | Buenas prácticas, seguridad, validación | `e-commerce-back`, `API-REST-Back` |
-| **Arquitectura de microservicios** | Spring Cloud, mensajería (RabbitMQ), Docker | `e-commerce-back` |
 | **Seguridad** | JWT, OAuth2, RBAC, encriptación | `e-commerce-back` |
 | **Programación en C** | Gestión de memoria, recursividad, parsers | `42 Projects` |
 | **Testing** | JUnit 5, Mockito, casos bordes | Todos los servicios backend |
@@ -51,7 +50,6 @@
 | [`e-commerce-back`](https://github.com/ccor27/e-commerce-back) | API REST completa para e-commerce (Stripe, PDF, OAuth2, JWT, RBAC, CRUD) | Spring Boot, Java, Docker | ✔️ |
 | [`chatMultiple`](https://github.com/ccor27/chatMultiple) | Chat cliente-servidor multihilo usando patrón Observer | Java, Sockets, MVC | ✔️ |
 | [`lead-to-prospect`](https://github.com/ccor27/lead-to-prospect) | Sistema para convertir leads en prospectos | Spring Boot, MySQL | ✔️ |
-| [`42-piscine`](https://github.com/ccor27/42-piscine) | Ejercicios de lógica, recursividad, punteros y malloc | C, Shell | 🛠️ En progreso |
 
 ---
 
@@ -68,6 +66,7 @@
 - Arquitectura hexagonal en Spring
 - Docker avanzado + Kubernetes con Helm
 - Profundización en punteros, malloc y estructuras en C
+- IA
 - Mejora continua del inglés técnico (actualmente B2 ➜ C1)
 
 ---
@@ -83,11 +82,11 @@
 ### 🌐 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Osorio-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-osorio-ramirez)  
-[📧 Gmail](mailto:cristian.osorio@mail.com)
+[📧 Gmail](mailto:crosorio.work@gmail.com)
 
 ---
 
-<sub>Última actualización: junio 2025</sub>
+<sub>Última actualización: Febrero 2026</sub>
 
 </details>
 
@@ -131,7 +130,6 @@
 | Area | Strengths | Applied in Projects |
 |------|-----------|---------------------|
 | **RESTful API Design** | Best practices, security, validation | `e-commerce-back`, `API-REST-Back` |
-| **Microservices Architecture** | Spring Cloud, messaging (RabbitMQ), Docker | `e-commerce-back` |
 | **Security** | JWT, OAuth2, RBAC, encryption | `e-commerce-back` |
 | **C Programming** | Memory management, recursion, parsers | `42 Projects` |
 | **Testing** | JUnit 5, Mockito, edge cases | All backend services |
@@ -146,7 +144,6 @@
 | [`e-commerce-back`](https://github.com/ccor27/e-commerce-back) | Full-featured e-commerce REST API (Stripe, PDF, OAuth2, JWT, RBAC, CRUD) | Spring Boot, Java, Docker | ✔️ |
 | [`chatMultiple`](https://github.com/ccor27/chatMultiple) | Multithreaded client-server chat using Observer pattern | Java, Sockets, MVC | ✔️ |
 | [`lead-to-prospect`](https://github.com/ccor27/lead-to-prospect) | Lead management system to convert leads into prospects | Spring Boot, MySQL | ✔️ |
-| [`42-piscine`](https://github.com/ccor27/42-piscine) | Logic exercises, recursion, pointers, and malloc | C, Shell | 🛠️ In progress |
 
 ---
 
@@ -163,6 +160,7 @@
 - Hexagonal architecture in Spring
 - Advanced Docker + Kubernetes with Helm
 - Deep dive into pointers, malloc, and data structures in C
+- AI
 - Improving technical English (currently B2 ➜ aiming for C1)
 
 ---
@@ -178,10 +176,10 @@
 ### 🌐 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Osorio-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-osorio-ramirez)  
-[📧 Email](mailto:cristian.osorio@mail.com)
+[📧 Email](mailto:crosorio.work@gmail.com)
 
 ---
 
-<sub>Last updated: June 2025</sub>
+<sub>Last updated: February 20256</sub>
 
 </details>
